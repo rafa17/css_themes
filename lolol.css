@@ -680,12 +680,12 @@ span.button__67645.enabled__67645.redGlow__67645:hover {
 
 .container_d8f25b {
     background-color: var(--background-primary);
-    color: rgb(105, 45, 45);
+    color: white;
 }
 
 .container_d8f25b:hover {
     background-color: var(--background-primary);
-    color: rgb(105, 45, 45);
+    color: #d8d5d5;
 }
 
 .wrapper_d852db {
@@ -2217,4 +2217,10 @@ span[class*="timestampInline_"] time::before {
 .privateChannels_e6b769 {
     background: var(--background-secondary);
     margin-left: 20px;
+}
+
+.selected__7fe75 .layout__59abc,
+.selected__7fe75:hover .layout__59abc {
+    background: var(--background-message-highlight-hover); /* or any color you like */
+    color: white;
 }
