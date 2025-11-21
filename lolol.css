@@ -14,7 +14,8 @@
 
     --file-ver: "#20251112";
 
-    /*Background*/
+    /*Backgroun
+    d*/
     --background-image: var(--custom-image-url);
     --app-blur: 8px;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
