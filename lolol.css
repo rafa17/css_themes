@@ -2223,3 +2223,36 @@ span[class*="timestampInline_"] time::before {
   background: hsla(0, 65.9%, 43.7%, 0.2);
   color: var(--text-default);
 }
+
+.wrapper_f61d60 {
+  background: rgba(130, 14, 14, 0.54);
+    background-color: rgba(130, 14, 14, 0.54);
+  border-radius: 3px;
+  color: var(--mention-foreground);
+  font-weight: var(--font-weight-medium);
+  padding: 0 2px;
+  unicode-bidi: plaintext;
+}
+
+.markup__75297 {
+  font-size: 1rem;
+  line-height: var(--chat-markup-line-height);
+  white-space: break-spaces;
+  word-wrap: break-word;
+  color: rgb(187, 184, 184);
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  user-select: text;
+}
+
+.username_c19a55 {
+  color: rgb(202, 200, 200);
+  display: inline;
+  flex-shrink: 0;
+  font-size: 1rem;
+  font-weight: var(--font-weight-medium);
+  line-height: 1.375rem;
+  overflow: hidden;
+  position: relative;
+  vertical-align: baseline;
+}
