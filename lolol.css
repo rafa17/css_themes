@@ -2223,3 +2223,11 @@ span[class*="timestampInline_"] time::before {
   background: hsla(0, 65.9%, 43.7%, 0.2);
   color: var(--text-default);
 }
+
+.name__20a53 {
+  flex: 0 1 auto;
+  font-size: 16px;
+  font-weight: var(--font-weight-medium);
+  line-height: 20px;
+  color: #a01616;
+}
