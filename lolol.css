@@ -53,7 +53,7 @@
     --background-message-automod: rgba(var(--rgb-highlight), 20%) !important;
     --background-message-automod-hover: rgba(var(--rgb-highlight), 40%) !important;
     --channeltextarea-background: color-mix(in oklab, var(--primary-560) 100%, var(--theme-base-color, black) var(--theme-base-color-amount, 0%)) !important;
-    --text-link: var(--highlight) !important;
+    --text-link: rgb(218, 19, 19) !important;
     --text-link-low-saturation: rgba(var(--rgb-highlight), 50%) !important;
     --text-positive: var(--online-color) !important;
     --text-warning: var(--afk-color) !important;
@@ -1548,7 +1548,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .container_cc2dff,
 .reactors_cc2dff {
     /* reactions modal bg theme */
-    background: rgba(105, 15, 133, 0.8);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 .header_d0b769,
@@ -1626,7 +1626,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .pageBody__41ed7 {
     /* channels & roles tab */
     margin-top: 10px;
-    background: rgba(105, 15, 133, 0.8);
+    background: rgba(0, 0, 0, 0.8);
     border-radius: 10px;
     border: 1px solid var(--selected-channel-color);
 }
@@ -2013,7 +2013,7 @@ span[class*="timestampInline_"] time::before {
 
 .soundButtonWrapper__9be63 {
     /* soundbar sounds bg */
-    background: var(--online-color);
+    background: var(--darkPurple-background);
     filter: brightness(75%);
 }
 
