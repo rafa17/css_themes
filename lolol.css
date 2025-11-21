@@ -159,8 +159,8 @@
     --background-surface-higher: black !important;
     --background-base-low: var(--background-secondary) !important;
     --background-secondary-alt: var(--background-secondary) !important;
-    --checkbox-border-checked: var(--online-color) !important;
-    --checkbox-background-checked: var(--online-color) !important;
+    --checkbox-border-checked: rgb(61, 105, 255) !important;
+    --checkbox-background-checked: rgb(61, 105, 255) !important;
     --background-surface-high: var(--background-tertiary) !important;
     --text-feedback-positive: var(--online-color) !important;
     --spoiler-hidden-background: var(--custom-spoiler-color) !important;
