@@ -2219,8 +2219,7 @@ span[class*="timestampInline_"] time::before {
     margin-left: 20px;
 }
 
-.selected__7fe75 .layout__59abc,
-.selected__7fe75:hover .layout__59abc {
-    background: var(--background-message-highlight-hover);
-    color: white;
+.interactiveSelected__972a0 {
+  background: hsla(0, 65.9%, 43.7%, 0.2);
+  color: var(--text-default);
 }
