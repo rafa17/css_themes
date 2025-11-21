@@ -1516,7 +1516,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .vc-notification-root {
     /* vencord update notification */
     border: 1px solid var(--selected-channel-color);
-    background: rgba(0,0,0);
+    background: rgba(51,25,0);
 }
 
 .vc-notification-progressbar {
