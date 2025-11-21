@@ -2257,3 +2257,9 @@ span[class*="timestampInline_"] time::before {
   position: relative;
   vertical-align: baseline;
 }
+
+.button_e131a9.buttonColor_e131a9.buttonActive_e131a9 {
+  background-color: var(--opacity-green-12);
+  border: 1px solid var(--opacity-green-12);
+  color: hsl(133.5, 26.3%, 29.8%);
+}
