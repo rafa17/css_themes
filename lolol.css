@@ -2221,6 +2221,6 @@ span[class*="timestampInline_"] time::before {
 
 .selected__7fe75 .layout__59abc,
 .selected__7fe75:hover .layout__59abc {
-    background: var(--background-message-highlight-hover); /* or any color you like */
+    background: var(--background-message-highlight-hover);
     color: white;
 }
