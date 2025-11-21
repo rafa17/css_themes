@@ -75,9 +75,9 @@
     --button-outline-danger-border-hover: rgba(var(--rgb-close-button), 70%) !important;
     --button-outline-danger-border-active: rgba(var(--rgb-close-button), 100%) !important;
     --button-positive-background-disabled: rgba(var(--rgb-online-color), 20%) !important;
-    --button-positive-background: rgba(var(--rgb-online-color), 20%) !important;
-    --button-positive-background-hover: rgba(var(--rgb-online-color), 70%) !important;
-    --button-positive-background-active: rgba(var(--rgb-online-color), 100%) !important;
+    --button-positive-background: rgb(61, 105, 255) !important;
+    --button-positive-background-hover:rgb(61, 105, 255) !important;
+    --button-positive-background-active: rgb(61, 105, 255) !important;
     --button-outline-positive-border: rgba(var(--rgb-online-color), 50%) !important;
     --button-outline-positive-background: rgba(var(--rgb-online-color), 50%) !important;
     --button-outline-positive-background-hover: rgba(var(--rgb-online-color), 70%) !important;
